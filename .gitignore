@@ -1,0 +1,10 @@
+# Audit output
+agentic-report*.json
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
