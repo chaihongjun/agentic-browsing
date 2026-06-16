@@ -1,6 +1,7 @@
 ---
 name: agentic-browsing
 description: 'Lighthouse Agentic Browsing audit and optimization — runs the lighthouse agentic-browsing category (llms.txt, agent accessibility tree, WebMCP, CLS) and fixes issues. Use when user says "agentic browsing", "run agentic audit", "check llms.txt", "AI agent accessibility", "lighthouse agentic", "WebMCP", or after implementing llms.txt / WebMCP features to verify they pass.'
+compatibility: Requires Node.js 22+, Lighthouse CLI (npm install -g lighthouse), and Chrome/Chromium 150+
 license: MIT
 metadata:
   author: chaihongjun
