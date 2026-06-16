@@ -1,5 +1,7 @@
 # Lighthouse Agentic Browsing Audit Skill
 
+[![skills.sh](https://skills.sh/b/chaihongjun/agentic-browsing)](https://skills.sh/chaihongjun/agentic-browsing)
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Lighthouse](https://img.shields.io/badge/lighthouse-13.x+-yellow)](https://developer.chrome.google.cn/docs/lighthouse/agentic-browsing/scoring)
 [![Node.js](https://img.shields.io/badge/node-22+-green)](https://nodejs.org)
